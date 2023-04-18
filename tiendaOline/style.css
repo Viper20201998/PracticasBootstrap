@@ -1,0 +1,19 @@
+.box-img{
+  object-fit: cover;
+  height: 250px;
+}
+
+
+.img-carousel{
+  width: 100px;
+  height: 100px;
+}
+
+.img-carousel img{
+  object-fit: cover;
+}
+
+
+.parrafo-modal{
+  text-align: justify;
+}
