@@ -6,9 +6,23 @@
   background-position: center -100px;
 }
 
+#section_one{
+  padding: 0 10rem;
+}
+
+#section_two{
+  padding: 0 7rem;
+}
+
+.box-img{
+  width: 150px;
+}
+
 @media (max-width: 570px){
   #banner{
     height: 250px;
     background-position: center;  
   }
 }
+
+
